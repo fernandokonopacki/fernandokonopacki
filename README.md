@@ -32,14 +32,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 </p>
 
-<div align="center">
-
-![Snake animation](https://github.com/fernandokonopacki/fernandokonopacki/blob/output/github-contribution-grid-snake.svg)
-
-</div>
           
 <div align="center">
-<h2>Social Contact</h2>
+<h2>Connect with me</h2>
 
 <a href="https://instagram.com/luisfernandokonopacki" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:luisfernandokonopacki@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
